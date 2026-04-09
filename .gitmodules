@@ -1,3 +1,7 @@
 [submodule "autoopt"]
 	path = autoopt
 	url = https://github.com/LydiaMaz/nQMCC-AutoOpt.git
+
+[submodule "postprocess"]
+	path = postprocess
+	url = https://github.com/LydiaMaz/nQMCC-PostProcess.git
